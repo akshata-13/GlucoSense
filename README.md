@@ -22,7 +22,7 @@ A comprehensive diabetes prediction system that combines ensemble machine learni
 Prerequisites
 - Python 3.8+
 - Google Gemini API key
-- 
+  
 **Clone the repository**:
  ```bash
    git clone https://github.com/akshata-13/GlucoSense.git
