@@ -46,8 +46,7 @@ GOOGLE_API_KEY=your_gemini_api_key_here
 Get your free API key from: [Google AI Studio](https://aistudio.google.com/app/api-keys)
 
 ## Run the system:
-```
-bash
+```bash
 python glucosense.py
 ```
 
